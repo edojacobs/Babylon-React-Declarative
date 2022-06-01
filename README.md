@@ -1,8 +1,6 @@
 # BabylonJS React
 - Declarative style to write Babylonjs React components
-
-##  Project Instructions
-[Babylon Project Guid](https://medium.com/@edoter92/babylonjs-react-typescript-project-36b73f8718f8)
+- [Babylon Project Guid](https://medium.com/@edoter92/babylonjs-react-typescript-project-36b73f8718f8)
 
 ## Build and Start
 ```bash
